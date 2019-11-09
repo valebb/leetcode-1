@@ -1,5 +1,5 @@
 from unittest import TestCase
-from roman_to_integer import Solution
+from solutions.roman_to_integer import Solution
 
 
 class TestSolution(TestCase):
